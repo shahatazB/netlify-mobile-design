@@ -50,3 +50,24 @@ margin-top: 20px;
     color:white;
     font-size: 18px;
 }
+@media screen and (min-width: 768px){
+    .container{
+        height: 100vh;
+    }
+    .box-one{
+        height: 50vh;
+    }
+    .section-two{
+        display: flex;
+
+    }
+    .box-two{
+        height: 50vh;
+        width: 900px;
+    }
+    .box-three{
+        height: 50vh;
+    }
+    
+}
+
